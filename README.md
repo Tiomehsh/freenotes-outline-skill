@@ -7,13 +7,13 @@ Codex skill for inspecting FreeNotes `.freenotes` packages, extracting a table o
 Ask Codex to install this skill from the GitHub path after the repository is published:
 
 ```text
-Install https://github.com/<owner>/<repo>/tree/main/skills/freenotes-outline
+Install https://github.com/Tiomehsh/freenotes-outline-skill/tree/main/skills/freenotes-outline
 ```
 
 Or run the bundled Codex installer:
 
 ```bash
-python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo <owner>/<repo> --path skills/freenotes-outline
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py --repo Tiomehsh/freenotes-outline-skill --path skills/freenotes-outline
 ```
 
 Restart Codex after installation.
