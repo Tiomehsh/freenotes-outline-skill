@@ -1,0 +1,4 @@
+interface:
+  display_name: "FreeNotes Outline"
+  short_description: "Inspect and batch-edit FreeNotes .freenotes outlines."
+  default_prompt: "Inspect this .freenotes export, extract its table of contents, and add or verify FreeNotes outline entries safely."
